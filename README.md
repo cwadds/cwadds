@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cwadds
-- 👀 I’m interested in tecnology, security, networking and programming
+- 👀 I’m interested in technology, security, networking and programming
 - 🌱 I’m currently learning more about cloud providers
 - 📫 How to reach me: email <conrad@wadds.net.au>
 
